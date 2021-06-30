@@ -26,3 +26,5 @@ while True:
         old_gray = cv2.cvtColor(frm, cv2.COLOR_BGR2GRAY)
         mask = np.zeros_like(frm)
         break
+
+cv2.destro
