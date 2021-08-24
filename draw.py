@@ -35,3 +35,4 @@ color = (0,255,0)
 c=0
 while True:
 
+    _,
