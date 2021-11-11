@@ -39,4 +39,5 @@ while True:
 
     new_frm = cv2.flip(new_frm, 1)
 
-    new_gray = cv2.cvtColor(new_frm ,cv2.COLOR_BGR2GR
+    new_gray = cv2.cvtColor(new_frm ,cv2.COLOR_BGR2GRAY)
+
