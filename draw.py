@@ -42,4 +42,5 @@ while True:
     new_gray = cv2.cvtColor(new_frm ,cv2.COLOR_BGR2GRAY)
 
     new_pts,status,err = cv2.calcOpticalFlowPyrLK(old_gray, 
-                         new_gr
+                         new_gray, 
+ 
