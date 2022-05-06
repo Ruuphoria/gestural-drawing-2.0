@@ -48,4 +48,6 @@ while True:
                          criteria=(cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT,
                                                          15, 0.08))
 
-    key = cv2.waitKey(1
+    key = cv2.waitKey(1)
+
+    i
