@@ -58,4 +58,6 @@ while True:
         lst = list(color)
         c+=1
         lst[c%3] = 255
-        color = tuple(ls
+        color = tuple(lst)
+
+   
