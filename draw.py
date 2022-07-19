@@ -60,4 +60,5 @@ while True:
         lst[c%3] = 255
         color = tuple(lst)
 
-    elif key == ord
+    elif key == ord('g'):
+   
