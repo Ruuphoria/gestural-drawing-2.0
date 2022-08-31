@@ -62,4 +62,5 @@ while True:
 
     elif key == ord('g'):
         pass
-    e
+    else:
+ 
