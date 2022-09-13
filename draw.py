@@ -63,4 +63,5 @@ while True:
     elif key == ord('g'):
         pass
     else:
-        for i, j in zip(old_pts, new_pts)
+        for i, j in zip(old_pts, new_pts):
+   
