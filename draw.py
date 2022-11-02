@@ -86,4 +86,4 @@ while True:
         break
 
 
-cv2.dest
+cv2.destroyAllWin
