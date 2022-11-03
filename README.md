@@ -10,3 +10,8 @@ User guide:
 c : Change color
 e : Erase
 g : Gap
+esc : Exit
+
+Reach out via comments for any support or queries. Thank you!
+
+Support the project: www.youtube.com/c/programminghutofficial
